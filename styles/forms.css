@@ -1,0 +1,15 @@
+.more-info> a{
+    text-decoration: none;
+    margin-top: 18px;
+    color: aliceblue;
+    padding-right: 50px;
+   
+}
+.first{
+    padding-top: 22px;
+}
+
+.end-text{
+    padding-bottom: 30px;
+    margin-left: 50px;
+}

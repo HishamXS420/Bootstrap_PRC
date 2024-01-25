@@ -1,0 +1,14 @@
+section{
+    width:100%;
+    margin: 0px;
+    padding: 0px;
+}
+
+section > div > button{
+    width: 38%;
+    margin-right: 300px;
+    padding-right: 5px;
+    margin-left: 172px;
+    padding-left: 0px;
+
+}

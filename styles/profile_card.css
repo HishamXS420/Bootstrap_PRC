@@ -1,0 +1,40 @@
+.gradient-custom {
+    /* fallback for old browsers */
+    background: #6a11cb;
+  
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: -webkit-linear-gradient(to right, rgba(94, 31, 229, 0.9), rgba(149, 18, 166, 0.9));
+  
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(to right,rgba(94, 31, 229, 0.9), rgba(149, 18, 166, 0.9));
+  }
+
+  .align-text-center{
+    align-items:center ;
+  }
+
+  @media screen and (min-width : 992px){
+    .col{
+      width: 250px;
+    }
+  }
+
+  .media-icons{
+    gap:20px;
+    margin-left: 10px;
+    margin-top: 20px;
+    align-items:center;
+    display: flex;
+    justify-content: center;
+  }
+
+  .text-center-now{
+    text-align: center;
+    
+  }
+
+  .Player{
+    border: 3px solid red;
+    overflow: none;
+    object-fit: contain;
+  }

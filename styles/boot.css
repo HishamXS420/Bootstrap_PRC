@@ -1,0 +1,30 @@
+.Forgot{
+    text-size-adjust: 0.5rem;  
+    padding-left: 165px;
+    margin-top: 5px;
+    color: rgb(114, 114, 195);
+}
+
+.Login{
+    font-size: 34px;
+    margin-bottom: 30px;
+}
+
+.button-prime{
+    background: linear-gradient(to right, rgb(35, 148, 148),rgb(64, 64, 203),rgb(5, 5, 124));
+    width: 300px;
+    font-weight: 700;
+}
+
+.finishing{
+   
+    align-items: center;
+    display: flex;
+    flex-direction:row;
+    justify-content: center;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    gap:60px;
+    
+}
+

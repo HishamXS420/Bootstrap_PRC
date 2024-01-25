@@ -1,0 +1,22 @@
+.bd-example-row [class^="col"], .bd-example-cols [class^="col"]>*, .bd-example-cssgrid [class*="grid"]>* {
+    padding-top: .75rem;
+    padding-bottom: .75rem;
+    
+    border: 1px solid rgba(var(--bd-violet-rgb), 0.3);
+    background: plum;
+}
+
+
+@media screen and (max-width: 576px)
+{
+    .grid{
+        display: flex;
+        flex-direction: column;
+        
+        width:100%;
+       
+    }
+
+   
+   
+}
